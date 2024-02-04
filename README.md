@@ -1,1 +1,3 @@
-# HugginFace_Noob_to_Master
+# HuggingFace Noob-to-Master
+
+My journey to master Huggingface for LLM research 
